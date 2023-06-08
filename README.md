@@ -1,4 +1,4 @@
-# Script-for-generating-a-Moodle-Ontology
+# Script-for-generating-a-Moodle-Ontology  
 
 ![Alt text](img/onto.jpg?raw=true "Ontology")
  
@@ -7,15 +7,15 @@
 ![Alt text](img/vlired.jpg?raw=true "VLired")
 
 ############################################## #### ##########################
-#####Settings : Modify the parameters on the config.yml file according to your environment.
+#####Settings : Modify the parameters on the config.yml file according to your environment.  
 
-#Connection
-dbus username: moodle
-dbpass:moodle
-database hostname: localhost
-database name: "moodle"
-
-moodlebaseurl: "https://sample.moodle.server.com/"
+#Connection  
+dbus username: moodle  
+dbpass:moodle  
+database hostname: localhost  
+database name: "moodle"  
+  
+  moodlebaseurl: "https://sample.moodle.server.com/"
 
 
 #Addresses to access the url of a course or a user's profile
